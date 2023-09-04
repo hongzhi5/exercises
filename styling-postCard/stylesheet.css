@@ -103,7 +103,7 @@ button {
     background: none;
     cursor: pointer;
     transform: rotate(-1.5deg);
-  }
+}
   
   button:after {
     content: " >>>";
